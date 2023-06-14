@@ -57,7 +57,7 @@ def show_map():
     except:
         messagebox.showerror('Distance or Location Error','Location may be too far for the selected mode of travel or the location was not recognized by google')
 
-gmaps = googlemaps.Client(key='AIzaSyAiM_lnecaPtWzId9aBml5l1tdGL2zpnCM')
+gmaps = googlemaps.Client(key='ENTER YOUR API HERE')
 
 origin='Kumasi'
 destination='AccRA'
