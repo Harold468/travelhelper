@@ -71,7 +71,7 @@ results = gmaps.distance_matrix(
 
 root=Tk()
 root.geometry('800x600')
-root.title('Distance Matrix Api by Dennis Asante')
+root.title('Distance Matrix Api by Osei Frimpong Kwabena Harold')
 
 backgroundimage=PhotoImage(file='backgroundimage.png')
 l1=Label(root,bg='skyblue',image=backgroundimage
