@@ -1,0 +1,7 @@
+run the ff commands
+pip install -U googlemaps
+pip install tkintermapview
+
+in your terminal or cmd run python main.py
+
+The exe file is found in dist > main > main.py
